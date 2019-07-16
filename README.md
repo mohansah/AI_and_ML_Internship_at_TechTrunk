@@ -6,6 +6,9 @@ Objective: (i) Predict the sales across various departments in each store. (ii) 
 ### Task 2. Chicago Crime Dataset
 Objective: Explore the data, and provide insights and forecasts about crimes in Chicago
 
+Dataset Link: https://www.kaggle.com/spirospolitis/chicago-crimes-20012018-november/version/1#city_of_chicago_crimes_2001_to_present.csv
+
+
 
 ### Task 3. Sales-Win-Loss Dataset
 Objective: Explore, analyze data and build a predictive model to tell us which sales campaign will result in a loss and which will result in a win.
@@ -55,6 +58,6 @@ Dataset Link: https://www.kaggle.com/ntnu-testimon/paysim1
 
 
 ### Task 12. IPL Dataset
-Objective: Analyze the IPL data and Predict the winner of the next season of IPL based on past data, Visualizations, Perspectives, etc.
+Objective: Analyze the IPL data and Predict the winner of the next matches of IPL based on past data, Visualizations, Perspectives, etc.
 
 Dataset Link: https://www.kaggle.com/manasgarg/ipl
